@@ -12,3 +12,9 @@ body{
     background-color: black;
     color: whitesmoke;
 }
+
+
+p, h1{
+    text-align: center;
+    
+}
